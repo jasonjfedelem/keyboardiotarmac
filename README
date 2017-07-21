@@ -1,15 +1,13 @@
-As of 7/21/17, this is a work in progress and I haven't actually done the mappings yet.  I will remove this comment when its ready to go
-
 # keyboardiotarmac
-Transitional layouts to allow keyboardio users to switch from QWERTY to Colemak
+Transitional layouts to allow keyboardio users to switch from QWERTY to Colemak gradually without losing as much typing speed.
 
 See this wikipedia article for information on Colemak layout: https://en.wikipedia.org/wiki/Keyboard_layout#Colemak
 
 See this page for information on  the tarmak transitional layouts: https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/
 
-I am not a programmer.  I do have the ability to read.  This gives me the amazing ability to look at a file, see that a certain letter is being mapped to a key, and replace it with another letter.  
+I am not a programmer.  I do have the ability to read.  This gives me the amazing ability to look at a file, see that a certain letter is being mapped to a key, and replace it with another letter. That is all I have done in this project. 
 
-What would be super cool is if someone could take these mappings that are in the files I have here, and merge them with the original firmware in such a way that a key combination could be pressed to switch layouts.
+What would be super cool is if someone could take these mappings that are in the files I have here, and merge them with the original firmware in such a way that a key combination could be pressed to switch layouts.  Of course, by suggesting this I may also be revealing my ignorance.
 
 My suggestion would be use of the "any key" which was added to the keyboardio.  
 
@@ -20,6 +18,10 @@ Any + 3 = Tarmac 3
 Any + 4 = Tarmac 4
 Any + 5 = Colemak
 
-Not being a programmer, I have no idea if the firmware file name matters.  Therefore, I have kept the file name the same, and created a copy of it in subfolders, each one with its respective layout.  I'm sure there are much better ways to do this, but I'm a beginner.
+Not being a programmer, I have no idea if the firmware file name matters.  Therefore, I have kept the file name the same, and created a copy of it in subfolders, each one with its respective layout.  I'm sure there are much better ways to do this.
+
+Thanks to keyboardio for creating the keyboard and Jesse Vincent and kickstarter user James Cash for pointing me in the right direction for making these keyboard layouts.
+
+To make use of these layouts, you'll need to pick the tarmac step that you are on, flash the firmware to the keyboard, and then switch the keys from the QWERTY set for the keys from the Colemak set.  For which keys to switch, follow this guide: https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/
 
 This is provided with no warranties, express or implied.
