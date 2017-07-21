@@ -1,0 +1,23 @@
+# keyboardiotarmac
+Transitional layouts to allow keyboardio users to switch from QWERTY to Colemak
+
+See this wikipedia article for information on Colemak layout: https://en.wikipedia.org/wiki/Keyboard_layout#Colemak
+
+See this page for information on  the tarmak transitional layouts: https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/
+
+I am not a programmer.  I do have the ability to read.  This gives me the amazing ability to look at a file, see that a certain letter is being mapped to a key, and replace it with another letter.  
+
+What would be super cool is if someone could take these mappings that are in the files I have here, and merge them with the original firmware in such a way that a key combination could be pressed to switch layouts.
+
+My suggestion would be use of the "any key" which was added to the keyboardio.  
+
+Any + 0 = QWERTY (the original mapping, and therefore lowest number.)
+Any + 1 = Tarmac 1
+Any + 2 = Tarmac 2
+Any + 3 = Tarmac 3
+Any + 4 = Tarmac 4
+Any + 5 = Colemak
+
+Not being a programmer, I have no idea if the firmware file name matters.  Therefore, I have kept the file name the same, and created a copy of it in subfolders, each one with its respective layout.  I'm sure there are much better ways to do this, but I'm a beginner.
+
+This is provided with no warranties, express or implied.
