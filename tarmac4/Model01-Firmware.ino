@@ -67,7 +67,7 @@ ___ \
 
 #define QWERTY KEYMAP_STACKED ( \
     ___,          Key_1, Key_2, Key_3, Key_4, Key_5, Key_LEDEffectNext, \
-    Key_Backtick, Key_Q, Key_W, Key_F, Key_P, Key_J, Key_Tab,           \
+    Key_Backtick, Key_Q, Key_W, Key_F, Key_P, Key_G, Key_Tab,           \
     Key_PageUp,   Key_A, Key_R, Key_S, Key_T, Key_D,                    \
     Key_PageDown, Key_Z, Key_X, Key_C, Key_V, Key_B, Key_Escape,        \
     Key_LeftControl, Key_Backspace, Key_LeftGui, Key_LeftShift,         \
